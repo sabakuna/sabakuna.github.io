@@ -1,0 +1,102 @@
+baseURL = 'http://sabakuna.github.io/'
+title = 'sabanote'
+theme = 'hugo-PaperMod'
+languageCode = "ja-ja"
+publishDir = "docs"
+
+enableInlineShortcodes = true
+enableRobotsTXT = false
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+sectionPagesMenu = 'main'
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[menu]
+  [[menu.main]]
+    identifier = 'archive'
+    name = 'archives'
+    url = '/archives/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'categories'
+    url = '/categories/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'tags'
+    url = '/tags/'
+    weight = 10
+
+[params]
+  title = 'sabanote'
+  # author = 'Me'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  UseHugoToc = true
+  ShowToc = true
+  TocOpen = true
+  [params.profileMode]
+    enabled = false
+    title = 'sabanote'
+  [params.homeInfoParams]
+    Title = 'sabanote'
+    Content = 'welcome'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      [markup.goldmark.extensions.cjk]
+        eastAsianLineBreaks = false
+        eastAsianLineBreaksStyle = 'simple'
+        enable = false
+        escapedSpace = false
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '&ldquo;'
+        leftSingleQuote = '&lsquo;'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '&rdquo;'
+        rightSingleQuote = '&rsquo;'
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xhtml = false
+
