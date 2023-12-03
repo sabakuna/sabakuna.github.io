@@ -2,7 +2,7 @@ baseURL = 'http://sabakuna.github.io/'
 title = 'sabanote'
 theme = 'PaperMod'
 languageCode = "ja-ja"
-publishDir = "docs"
+publishDir = "public"
 
 enableInlineShortcodes = true
 enableRobotsTXT = false
