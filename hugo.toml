@@ -35,6 +35,10 @@ sectionPagesMenu = 'main'
     url = '/tags/'
     weight = 10
 
+[permalinks]
+  posts = '/:year/:month/:slug/'
+
+
 [params]
   title = 'sabanote'
   # author = 'Me'
