@@ -1,6 +1,6 @@
 baseURL = 'http://sabakuna.github.io/'
 title = 'sabanote'
-theme = 'hugo-PaperMod'
+theme = 'PaperMod'
 languageCode = "ja-ja"
 publishDir = "docs"
 
