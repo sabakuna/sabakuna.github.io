@@ -1,0 +1,20 @@
+
+.logo > a {
+    color: #aaaaaa;
+}
+
+.logo > a:hover {
+    color: #333333;
+}
+
+p > a {
+    color: #36aa00;
+}
+
+p > a:hover {
+    color: #00bab3;
+}
+
+.post-content blockquote {
+    border-inline-start: 6px solid #eee;
+}

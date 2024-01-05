@@ -3,7 +3,7 @@ categories = ['映画感想']
 tags = ['銀河英雄伝説']
 title = '銀河英雄伝説DNT　激突3章感想'
 date = 2022-05-14T20:34:00+09:00
-slug = 'LOGH-DNT_gekitotsu-p3_review'
+slug = 'movie_LOGH-DNT_gekitotsu-p3_review'
 #draft = true
 +++
 
