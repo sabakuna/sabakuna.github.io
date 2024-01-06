@@ -18,3 +18,23 @@ p > a:hover {
 .post-content blockquote {
     border-inline-start: 6px solid #eee;
 }
+
+/* ================================================ */
+.custom_footer_wraper {
+    background-color: #212529;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 5rem;
+    font-size: 0.8em;
+}
+
+.custom_footer_comment {
+    position: relative;
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+    margin: auto;
+    padding: var(--gap);
+}
+
+.custom_footer_comment > a {
+    color: rgb(173,255,47);
+}
