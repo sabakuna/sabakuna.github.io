@@ -63,6 +63,8 @@ sectionPagesMenu = 'main'
   [params.homeInfoParams]
     Title = 'sabanote'
     Content = '壁打ち感想文(本、映画、ゲーム…)置き場。ネタバレ配慮ほぼ無し。想像と現実がコンフリクトしやすいおたくが書いています。もともとミステリ本を読んで感想書くブログだったけど雑多なブログになりました。'
+  [[params.customCSS]]
+    href = "css/mystyle.css"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'

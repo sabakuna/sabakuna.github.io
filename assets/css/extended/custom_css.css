@@ -1,4 +1,26 @@
 
+
+.entry-header > h2 {
+  font-size: 1.2rem;
+}
+
+h1.post-title {
+  font-size: 1.5rem;
+}
+
+.post-content {
+  font-size: 1rem;
+}
+
+.prev > span {
+  font-size: 1rem;
+}
+
+.next > span {
+  font-size: 1rem;
+}
+
+/* ================================================ */
 .logo > a {
     color: #aaaaaa;
 }
