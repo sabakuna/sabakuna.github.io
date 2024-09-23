@@ -2,6 +2,8 @@ baseURL = 'https://sabakuna.github.io/'
 title = 'sabanote'
 theme = 'PaperMod'
 languageCode = "ja-ja"
+# PaperModで日本語化する場合下記が必要
+defaultContentLanguage = 'ja'
 publishDir = "public"
 
 enableInlineShortcodes = true
