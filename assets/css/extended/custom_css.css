@@ -41,6 +41,7 @@ p > a:hover {
     border-inline-start: 6px solid #eee;
 }
 
+
 /* ================================================ */
 .custom_footer_wraper {
     background-color: #212529;
@@ -59,4 +60,8 @@ p > a:hover {
 
 .custom_footer_comment > a {
     color: rgb(173,255,47);
+}
+
+.custom_footer_comment > a:hover {
+  color: #00bab3;
 }

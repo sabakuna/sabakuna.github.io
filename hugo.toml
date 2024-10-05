@@ -13,6 +13,7 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
+enableGitInfo = true
 
 sectionPagesMenu = 'main'
 
