@@ -21,7 +21,7 @@ sectionPagesMenu = 'main'
   date = ['date']
   expiryDate = ['expirydate', 'unpublishdate']
   lastmod = ['lastmod', ':git', 'modified']
-  publishDate = ['publishdate', 'pubdate', 'published']
+  publishDate = ['date','publishdate', 'pubdate', 'published']
 
 [minify]
   disableXML = true
