@@ -7,7 +7,7 @@
 {{- $scratch.Add "meta" (slice "Posted" (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "2006-01-02" site.Params.DateFormat)))) }}
 {{- end }}
 
-{{- if and (.Param "Lastmod") (ne (.Param "Lastmod"| time.Format "2006-01-02") (.Date | time.Format "2006-01-02" )) }}
+{{- if ne $lastmod $date -}}
 {{- $scratch.Add "meta" (slice "Updated" (printf "<span title='%s'>%s</span>" (.Lastmod) (.Lastmod | time.Format (default "2006-01-02" site.Params.DateFormat)))) }}
 {{- end }}
 
