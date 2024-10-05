@@ -1,9 +1,15 @@
+{{ $date := .Date.Format "2006-01-02" }}
+{{ $lastmod := .Lastmod.Format "2006-01-02" }}
+
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice "Posted" (.Date.Format (default "2006-01-02" .Site.Params.DateFormat)) "Updated" (.Lastmod.Format (default "2006-01-02"))) }}
-{{- end -}}
+{{- $scratch.Add "meta" (slice "Posted" (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "2006-01-02" site.Params.DateFormat)))) }}
+{{- end }}
 
+{{- if and (.Param "Lastmod") (ne (.Param "Lastmod"| time.Format "2006-01-02") (.Date | time.Format "2006-01-02" )) }}
+{{- $scratch.Add "meta" (slice "Updated" (printf "<span title='%s'>(updated %s)</span>" (.Lastmod) (.Lastmod | time.Format (default "2006-01-02" site.Params.DateFormat)))) }}
+{{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
 {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
