@@ -20,7 +20,7 @@ sectionPagesMenu = 'main'
 [frontmatter]
   date = ['date']
   expiryDate = ['expirydate', 'unpublishdate']
-  lastmod = [':git', 'lastmod', 'modified']
+  lastmod = ['lastmod', ':git', 'modified']
   publishDate = ['publishdate', 'pubdate', 'published']
 
 [minify]

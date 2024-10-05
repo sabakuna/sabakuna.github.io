@@ -3,6 +3,7 @@ categories = ['読書感想']
 tags = ['読書']
 title = '三体感想'
 date = 2021-10-07T23:35:50+09:00
+lastmod = 2023-12-29T10:29:00+09:00
 slug = 'book_santai_review'
 #draft = true
 +++

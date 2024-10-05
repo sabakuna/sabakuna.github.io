@@ -3,6 +3,7 @@ categories = ['読書感想']
 tags = ['読書']
 title = '曲がった犯罪感想'
 date = 2017-09-16T20:32:00+09:00
+lastmod = 2023-12-29T10:12:05+09:00
 slug = 'book_magatta-hanzai_review'
 #draft = true
 +++

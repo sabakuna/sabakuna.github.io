@@ -3,6 +3,7 @@ categories = ['日常']
 tags = ['映画','日常']
 title = 'ジェンダーについてのもろもろ'
 date = 2022-08-28T16:34:00+09:00
+lastmod = 2023-12-29T10:38:00+09:00
 slug = 'daily_gender_notes'
 #draft = true
 +++

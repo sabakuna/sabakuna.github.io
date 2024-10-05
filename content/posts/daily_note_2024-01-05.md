@@ -3,7 +3,8 @@ categories = ['日常']
 tags = ['日常','Fediverse']
 title = 'Fediverseに来てからの感想置き場'
 date = 2024-01-05T21:51:00+09:00
-slug = 'daily_review'
+lastmod = 2024-01-05T21:51:00+09:00
+slug = 'daily_note_2024-01-05'
 #draft = true
 +++
 

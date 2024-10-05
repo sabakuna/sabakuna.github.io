@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['映画','Gladiator']
 title = 'グラディエーターコメンタリ感想'
 date = 2022-08-18T17:55:00+09:00
+lastmod = 2023-12-29T10:37:00+09:00
 slug = 'movie_gladiator-commentary_review'
 #draft = true
 +++

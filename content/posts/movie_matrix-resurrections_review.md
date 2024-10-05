@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['映画']
 title = 'マトリックス・レザレクションズ感想'
 date = 2021-12-18T20:01:00+09:00
+lastmod = 2023-12-29T10:30:00+09:00
 slug = 'movie_matrix-resurrections_review'
 #draft = true
 +++

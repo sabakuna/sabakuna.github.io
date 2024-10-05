@@ -3,7 +3,8 @@ categories = ['読書感想','映画感想']
 tags = ['読書','映画','FGO','うどん','ゲーム']
 title = 'メアリー・アニングの冒険とアンモナイトの目覚め感想'
 date = 2022-08-12T23:39:00+09:00
-slug = 'book_ProjectHailMary_review'
+lastmod = 2023-12-29T10:36:00+09:00
+slug = 'book-movie_MaryAnning_review'
 #draft = true
 +++
 

@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['映画']
 title = 'TENETでひっかかったところ…'
 date = 2020-09-21T18:18:00+09:00
+lastmod = 2023-12-29T10:25:00+09:00
 slug = 'TENET_review'
 #draft = true
 +++

@@ -3,6 +3,7 @@ categories = ['読書記録']
 tags = ['読書']
 title = '2018年10月'
 date = 2018-11-27T20:10:00+09:00
+lastmod = 2023-12-29T10:23:00+09:00
 slug = 'recordreading'
 #draft = true
 +++

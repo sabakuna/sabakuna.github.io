@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['映画']
 title = 'マトリックス（無印）今更の気付き'
 date = 2021-12-26T23:00:00+09:00
+lastmod = 2023-12-29T10:31:00+09:00
 slug = 'movie_matrix_review'
 #draft = true
 +++

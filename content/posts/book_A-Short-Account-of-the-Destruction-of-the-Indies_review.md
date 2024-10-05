@@ -3,7 +3,8 @@ categories = ['読書感想']
 tags = ['読書']
 title = 'あさはか…'
 date = 2021-07-25T10:13:00+09:00
-slug = 'daily'
+lastmod = 2023-12-29T10:27:00+09:00
+slug = 'book_A-Short-Account-of-the-Destruction-of-the-Indies_review'
 #draft = true
 +++
 

@@ -3,6 +3,7 @@ categories = ['読書感想']
 tags = ['読書']
 title = 'プロジェクト・ヘイル・メアリー感想'
 date = 2022-06-06T22:58:00+09:00
+lastmod = 2023-12-29T10:34:00+09:00
 slug = 'book_ProjectHailMary_review'
 #draft = true
 +++

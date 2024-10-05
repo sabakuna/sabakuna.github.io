@@ -3,7 +3,8 @@ categories = ['映画感想']
 tags = ['映画']
 title = 'ヘレディタリー/継承　感想'
 date = 2021-02-21T01:03:00+09:00
-slug = 'Hereditary_review'
+lastmod = 2023-12-29T10:26:00+09:00
+slug = 'movie_Hereditary_review'
 #draft = true
 +++
 

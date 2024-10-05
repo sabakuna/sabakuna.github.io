@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['銀河英雄伝説']
 title = '銀河英雄伝説DNT　策謀2,3章感想'
 date = 2022-12-15T20:53:00+09:00
+lastmod = 2023-12-29T10:40:00+09:00
 slug = 'movie_LOGH-DNT_sakubou-p2-3_review'
 #draft = true
 +++

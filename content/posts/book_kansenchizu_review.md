@@ -3,6 +3,7 @@ categories = ['読書感想']
 tags = ['読書']
 title = '感染地図感想めも'
 date = 2018-11-03T15:42:00+09:00
+lastmod = 2023-12-29T10:22:00+09:00
 slug = 'book_kansenchizu_review'
 #draft = true
 +++

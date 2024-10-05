@@ -3,6 +3,7 @@ categories = ['映画感想']
 tags = ['映画','Alien']
 title = 'エイリアンロムルス感想'
 date = 2024-09-07T19:45:32+09:00
+lastmod = 2024-09-19T21:51:00+09:00
 slug = 'movie_alien-romulus_review'
 #draft = true
 +++
