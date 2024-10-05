@@ -1,5 +1,9 @@
 
+ul.lang-switch {
+  display: none;
+}
 
+/* ================================================ */
 .entry-header > h2 {
   font-size: 1.2rem;
 }

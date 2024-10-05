@@ -18,10 +18,10 @@ enableGitInfo = true
 sectionPagesMenu = 'main'
 
 [frontmatter]
-  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  date = ['date']
   expiryDate = ['expirydate', 'unpublishdate']
-  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
-  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+  lastmod = [':git', 'lastmod', 'modified']
+  publishDate = ['publishdate', 'pubdate', 'published']
 
 [minify]
   disableXML = true
