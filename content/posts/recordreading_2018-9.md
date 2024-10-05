@@ -4,7 +4,7 @@ tags = ['読書']
 title = '2018年9月'
 date = 2018-10-09T08:09:00+09:00
 lastmod = 2023-12-29T10:21:00+09:00
-slug = 'recordreading'
+slug = 'recordreading_2018-9'
 #draft = true
 +++
 
