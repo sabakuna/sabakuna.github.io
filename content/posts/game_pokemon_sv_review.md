@@ -3,7 +3,7 @@ categories = ['ゲーム感想']
 tags = ['pokemon','ゲーム']
 title = 'ポケモンSV感想'
 date = 2024-01-03T12:17:00+09:00
-lastmod = 2023-12-29T10:42:00+09:00
+lastmod = 2024-01-03T12:17:00+09:00
 slug = 'pokemon_sv_review'
 #draft = true
 +++
