@@ -150,4 +150,7 @@ slug = 'game_alien-isolation_review_002'
 
 端末のメッセージや音声データの英語を読み取るのが厳しいのでやっぱり日本語字幕ある方でやろうかなーと思いつつ、でも英語での感触も楽しみたいんだよなーとも思いつつ……
 
+次：[ALIEN ISOLATION感想(3)](../../../../2024/10/06/game_alien-isolation_review_003/)
+
+
 
