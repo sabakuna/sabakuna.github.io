@@ -64,6 +64,7 @@ p > a:hover {
 
 .custom_footer_comment > a {
     color: rgb(173,255,47);
+    transition: 0.3s ease-in-out;
 }
 
 .custom_footer_comment > a:hover {
