@@ -1,9 +1,8 @@
 +++
 categories = ['映画感想']
-tags = ['映画']
+tags = ['映画',"Matrix"]
 title = 'マトリックス　スミスについて'
 date = 2021-12-28T22:02:00+09:00
-lastmod = 2023-12-29T10:32:00+09:00
 slug = 'movie_matrix-series_review_002'
 #draft = true
 +++
