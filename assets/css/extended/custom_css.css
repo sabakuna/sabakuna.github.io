@@ -45,6 +45,9 @@ p > a:hover {
     border-inline-start: 6px solid #eee;
 }
 
+details {
+  margin-bottom: var(--content-gap);
+}
 
 /* ================================================ */
 .custom_footer_wraper {
