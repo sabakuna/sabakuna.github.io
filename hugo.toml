@@ -7,7 +7,7 @@ defaultContentLanguage = 'ja'
 publishDir = "public"
 
 enableInlineShortcodes = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
