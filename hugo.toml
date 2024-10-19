@@ -66,6 +66,7 @@ sectionPagesMenu = 'main'
   UseHugoToc = true
   ShowToc = true
   TocOpen = true
+  InhibitSections = ["tags", "categories", "posts", "archives"]
   [params.profileMode]
     enabled = false
     title = 'sabanote'
