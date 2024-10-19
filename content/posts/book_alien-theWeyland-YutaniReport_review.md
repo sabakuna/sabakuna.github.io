@@ -4,7 +4,7 @@ tags = ['読書','Alien']
 title = 'The Weyland-Yutani Report紹介・感想少し'
 date = 2024-10-19T23:28:35+09:00
 slug = 'book_theWeyland-YutaniReport_review'
-draft = true
+# draft = true
 +++
 
 表題の本の紹介・感想です。本の初めの方・終わりの方の文章に、この本のスタンスが分かりやすく面白く表れているので抜粋・引用気味に紹介してます(文章の内容一部バレ)。本で取り上げられている映画本編の内容にはあまり触れていないつもりです。
