@@ -4,7 +4,7 @@ tags = ['読書']
 title = 'ミッキー7 反物質ブルース感想'
 date = 2025-04-29T21:00:39+09:00
 slug = 'book_mickey-seven-2_review'
-draft = true
+# draft = true
 +++
 
 『ミッキー7 反物質ブルース』ネタバレ感想。この前の本の感想はこちら：[ミッキー7感想](../../../../2025/04/29/book_mickey-seven_review/)

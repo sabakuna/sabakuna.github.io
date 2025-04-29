@@ -4,7 +4,7 @@ tags = ['読書']
 title = 'ミッキー7感想'
 date = 2025-04-29T20:21:39+09:00
 slug = 'book_mickey-seven_review'
-draft = true
+# draft = true
 +++
 
 『ミッキー7』ネタバレ感想
