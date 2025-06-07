@@ -4,7 +4,7 @@ tags = ['ゲーム','Alien']
 title = 'ALIEN ISOLATION感想(5)'
 date = 2025-06-07T13:16:40+09:00
 slug = 'game_alien-isolation_review_005'
-draft = true
+# draft = true
 +++
 
 クールマン氏と話してお使いに行き～戻ってくるまでのネタバレ。エイリアン(初代映画)を中心に、これまで出たエイリアンシリーズの映画の内容に軽く触れてます。 **ゲーム中の暴力描写を見たままに記載している箇所があります**
