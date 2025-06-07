@@ -140,5 +140,7 @@ slug = 'game_alien-isolation_review_004'
 
 それよりワーキング・ジョーが子供と手をつないでいるポスターについて詳しく知りたい
 
+次：[ALIEN ISOLATION感想(5)](../../../../2025/06/07/game_alien-isolation_review_005/)
+
 
 
